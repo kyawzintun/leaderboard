@@ -1,0 +1,44 @@
+.container {
+  text-align: center;
+}
+.user-list-row{
+  margin-bottom: 50px;
+}
+
+th {
+  text-align: center !important;
+  font-size: 20px;
+}
+td {
+  vertical-align: middle;
+}
+.table-title {
+  font-size: 32px;
+}
+.sort {
+  cursor: pointer;
+}
+
+/* .active-recent {
+  color: red;
+}
+
+.active-all-time {
+  color: green;
+} */
+
+.active-recent::after,
+.active-all-time::after {
+  content : '^';
+  margin-left: 10px;
+}
+
+.coded-by {
+  color: white;
+  font-size: 20px;
+}
+.coded-by > a,
+.coded-by > a:active {
+  text-decoration: none;
+  color: white;
+}
