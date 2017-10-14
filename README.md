@@ -1,4 +1,12 @@
-### App Setup
+# Free Code Camp - Leaderboard
 
-* npm install
-* npm start
+## Getting started
+
+Once you clone the repo you can run:
+
+```
+$ npm install
+$ npm start
+```
+
+*[Demo](https://cukyawzintun.github.io/leaderboard/)*
