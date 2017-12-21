@@ -9,4 +9,4 @@ $ npm install
 $ npm start
 ```
 
-*[Demo](https://cukyawzintun.github.io/leaderboard/)*
+*[Demo](https://kyawzintun.github.io/leaderboard/)*
